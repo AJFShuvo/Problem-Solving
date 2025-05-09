@@ -1,4 +1,4 @@
-# Module-1: Contest-1
+# Contest-1
 
 > **Topic:** Data Types, Operators, and Variables  
 > **Platform:** VJudge  
