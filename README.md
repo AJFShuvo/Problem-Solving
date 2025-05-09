@@ -1,13 +1,13 @@
 # Module-1
 
-> **Contest No.:** _\<1\>_
+> **Contest No:** 1
 
 ## 📚 Topics Covered
 
 - Data Types  
 - Operators  
 - Variables  
-> **Contest No.:** _\<2\>_
+> **Contest No:** 2
 
 ## 📚 Topics Covered
 
