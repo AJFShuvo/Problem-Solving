@@ -1,4 +1,4 @@
-//Problem Link : https://vjudge.net/contest/715567#problem/J
+//Problem Link : https://www.codechef.com/problems/FOODCOST
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

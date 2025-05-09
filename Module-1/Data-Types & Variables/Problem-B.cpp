@@ -1,4 +1,4 @@
-// Problem-B: https://vjudge.net/contest/715567#problem/B
+// Problem-B: https://www.codechef.com/problems/DOUBLERENT
 #include<bits/stdc++.h>
 using namespace std;
 int main()

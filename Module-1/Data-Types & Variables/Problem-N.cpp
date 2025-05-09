@@ -1,4 +1,4 @@
-//Problem Link: https://vjudge.net/contest/715567#problem/N
+//Problem Link: https://www.codechef.com/problems/SWEETSHOP
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

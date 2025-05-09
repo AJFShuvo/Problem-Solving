@@ -1,4 +1,4 @@
-//Problem Link: https://vjudge.net/contest/715567#problem/P
+//Problem Link: https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_1_C
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

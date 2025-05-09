@@ -1,4 +1,4 @@
-//Problem Link: https://vjudge.net/contest/715567#problem/I
+//Problem Link: https://www.codechef.com/problems/RIP2000
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

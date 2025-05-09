@@ -1,4 +1,4 @@
-//Problem-C : https://vjudge.net/contest/715567#problem/C
+//Problem-C : https://www.codechef.com/problems/CLEARDAY
 #include<bits/stdc++.h>
 #define ll long long int 
 using namespace std;

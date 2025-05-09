@@ -1,4 +1,4 @@
-//Problem Link: https://vjudge.net/contest/715567#problem/M
+//Problem Link: https://atcoder.jp/contests/abc283/tasks/abc283_a?lang=en
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
