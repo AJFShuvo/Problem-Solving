@@ -1,4 +1,3 @@
-<img src="https://t.bkit.co/w_681f9e76430b7.gif" />
 # Module-1
 
 > **Contest No:** 1
@@ -15,3 +14,4 @@
 - Conditional Statements  
 - if-else   
 - switch  
+<img src="https://t.bkit.co/w_681f9e76430b7.gif" />
