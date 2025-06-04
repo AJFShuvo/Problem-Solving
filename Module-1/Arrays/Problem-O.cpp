@@ -3,22 +3,29 @@
 using namespace std;
 int main(){
     int n;
-    scanf("%d",&n);
+    scanf("%d", &n);
     int arr[n];
-    for(int i = 0;i<n;i++)
-    scanf("%d",&arr[i]);
+    for (int i = 0; i < n; i++) {
+        scanf("%d", &arr[i]);
+    }
 
-    for(int i = 1;i<n;i++){
-        if(abs(arr[i]- arr[i-1]) > 1){
-
-            int p = abs(arr[i]-arr[i-1]);
-            for(int j = arr[i-1];j<=p;j++){
-                printf("%d ",j);
+    for (int i = 0; i < n - 1; i++) {
+        if (arr[i] < arr[i + 1]) {
+            // print from arr[i] up to arr[i+1] – 1
+            printf("%d ", arr[i]);
+            for (int j = arr[i] + 1; j <= arr[i + 1] - 1; j++) {
+                printf("%d ", j);
+            }
+        } else {
+            // print from arr[i] down to arr[i+1] + 1
+            printf("%d ", arr[i]);
+            for (int j = arr[i] - 1; j >= arr[i + 1] + 1; j--) {
+                printf("%d ", j);
             }
         }
-        else {
-            printf("%d ",i);
-        }
     }
+
+    
+    printf("%d\n", arr[n - 1]);
     return 0;
 }
