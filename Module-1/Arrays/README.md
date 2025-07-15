@@ -17,6 +17,28 @@ The problems in this contest help strengthen:
 - Frequency counting and searching  
 - Basic logic building using arrays  
 - Solving edge cases and constraints in array problems
+- Frequency of elements in the Array
+- Counting Odd/Even elements in the Array
+- Sum of Odd/Even elements in the Array 
+- Cyclic Array rotation 
+- Indexed array summation 
+- Adjacent Element Difference Check (scanning the array to find the first consecutive pair whose absolute    difference does not exceed a given threshold).
+- Constraint Validation on Array Elements(Non-decreasing order check, Range check, Divisibility check).
+- Maximum of the Strictly Increasing Prefix
+- Subarray(Segment) Swapping 
+- Perfect-Square Sum check
+- Uniform-Digit Pair counting
+- Frequency Counting to Find the Missing Element
+- Missing Number
+- Greedy Maximization of Array Product by a Single Increment. 
+- Frequency Counting with Trheshold Check
+- Consecutive Range Expansion 
+- Finding Missing Values via Boolean Marking 
+- Presence-Flag Array for enumerating Missing values 
+- Range Clamping( Limiting or bouding values to fixed interval)
+- Difference Array Construction (discrete derivative of an array)
+- Element Existence Check 
+
 
 All problems are curated to build a solid foundation for solving real-world problems using arrays.
 
