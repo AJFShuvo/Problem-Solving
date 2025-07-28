@@ -23,5 +23,5 @@
 > **Contest No:** 4
 ## 📚 Topics Covered
 - Arrays
-> **Contest No:** 5
+
 <img src="https://t.bkit.co/w_681f9e76430b7.gif" />
