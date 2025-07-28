@@ -21,4 +21,7 @@
 - do-while loop
 - for loop
 
+## 📚 Topics Covered
+- Arrays
+> **Contest No:** 3
 <img src="https://t.bkit.co/w_681f9e76430b7.gif" />
