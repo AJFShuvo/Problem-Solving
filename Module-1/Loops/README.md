@@ -23,12 +23,7 @@ All problems are part of a curated set designed to improve problem-solving using
 
 ## 🚀 Table of Contents
 
-1. [Setup & Prerequisites](#setup--prerequisites)  
-2. [Directory Structure](#directory-structure)  
-3. [How to Run](#how-to-run)  
-4. [Problem List](#problem-list)  
-5. [Contributing](#contributing)  
-6. [License](#license)  
+- it will be written later
 
 ---
 
