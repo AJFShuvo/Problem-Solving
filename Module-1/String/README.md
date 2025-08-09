@@ -2,8 +2,8 @@
 
 > **Topic:** String  
 > **Platform:** VJudge  
-> **Contest Link:** Soon there will be something  
-> **Password:** again..there will be something
+> **Contest Link:** (https://vjudge.net/contest/738304)
+> **Password:** KingOfTheBestKaido
 
 ---
 
@@ -24,7 +24,7 @@ The problems in this contest help strengthen:
 - Constraint Validation on String Elements(Non-decreasing order check, Range check, Divisibility check).
 
 
-All problems are curated to build a solid foundation for solving real-world problems using arrays.
+All problems are curated to build a solid foundation for solving real-world problems using String.
 
 ---
 
